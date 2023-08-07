@@ -55,13 +55,11 @@ h1{
     }
     
     .img-left img{
-    height: 39%;
-    width: 39%;
-    margin-left: 5%;
-    padding-left: 2%;
-    padding-right: 80px;
-    margin-top: 50px;
-    
+        margin-left: 5%;
+        padding-left: 2%;
+        margin-top: 100px;
+        padding-top: 2%;
+        height: 50%;
     }
     .botom-banner{
     background-image: url(./images/dream-bg.png);
