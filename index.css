@@ -1,0 +1,105 @@
+h1{
+    font-size: 50px;
+    }
+    body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    }
+    .orange-highlight{
+    color: orange;
+    }
+    .half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    }
+    .half-width img{
+    margin-top: 50px;
+    margin-left: 80px;
+    height: 80%;
+    width: 80%;
+    }
+    .top-banner{
+    background-image: url(./images/top-banner.png);
+    background-repeat: no-repeat;
+    }
+    section{
+    height: 500px;
+    margin-bottom: 50px;
+    }
+    .link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    
+    }
+    h2{
+    font-size: 30px;
+    }
+    p{
+    color: dimgray;
+    }
+    
+    .Right{
+    width: 40%;
+    float: right;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-right: 5%;
+    padding-right: 2%;
+    margin-top: 50px;
+    }
+    
+    .img-left img{
+    height: 39%;
+    width: 39%;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-right: 80px;
+    margin-top: 50px;
+    
+    }
+    .botom-banner{
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    }
+    #exp{
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    }
+    .single-exparience{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    height: 80%;
+    }
+    .Experience-Area{
+    background-image: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+    }
+    #box{
+    background-color: white;
+    margin-left: 7%;
+    padding-left: 2%;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg ,lightsalmon , tomato);
+    border border-image-slice: 1;
+    }
+    #boxes{
+    background-color: white;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg , blue , cyan);
+    border border-image-slice: 1;
+    }
+    footer p{
+    text-align: center;
+    font-size: 12px;
+    }
+    
